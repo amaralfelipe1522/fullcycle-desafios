@@ -9,3 +9,9 @@ Repositório que contém os desafios realizados em todo o curso FullCycle 2.0 pa
 ```
 docker run --rm amaralfelipe1522/desafio-01-go
 ```
+
+### Desafio mySql + Node + Nginx
+- Local do código fonte: 01-modulo-docker/desafio-02
+```
+docker-compose up -d --build
+```

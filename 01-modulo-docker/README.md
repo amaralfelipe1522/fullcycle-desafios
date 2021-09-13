@@ -6,3 +6,9 @@
 ```
 docker run --rm amaralfelipe1522/desafio-01-go
 ```
+
+### Desafio mySql + Node + Nginx
+- Local do código fonte: /desafio-02
+```
+docker-compose up -d --build
+```
